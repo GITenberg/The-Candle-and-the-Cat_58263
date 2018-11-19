@@ -1,5 +1,8 @@
 _repo: The-Candle-and-the-Cat_58263
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58263-h/images/cover.jpg
 creator:
   author:
     agent_name: Leonard, Mary Finley
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '6037'
     url: http://www.gutenberg.org/2009/agents/6037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58263#The-Candle-and-the-Cat
 gutenberg_issued: '2018-11-10'
 gutenberg_type: Text
 identifiers:
